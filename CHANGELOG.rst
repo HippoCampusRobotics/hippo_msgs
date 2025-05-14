@@ -2,6 +2,14 @@
 Changelog for package hippo_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#1 <https://github.com/HippoCampusRobotics/hippo_msgs/issues/1>`_ from VincentTUHH/main
+  added message types for pick and place framework
+* added message type for pap state machine
+* added README
+* Contributors: Nathalie Bauschmann, Thies Lennart Alff, Vincent Lenz
+
 0.0.1 (2024-07-11)
 ------------------
 * moved acoustic related msgs to acoustic_msgs
