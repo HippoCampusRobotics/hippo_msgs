@@ -2,8 +2,8 @@
 Changelog for package hippo_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2025-05-14)
+------------------
 * Merge pull request `#1 <https://github.com/HippoCampusRobotics/hippo_msgs/issues/1>`_ from VincentTUHH/main
   added message types for pick and place framework
 * added message type for pap state machine
